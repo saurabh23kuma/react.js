@@ -1,0 +1,26 @@
+
+1.Questions: what is react? 
+Answer:React is a declarative,efficient and flexible Javascript library for building reusable UI components.It is an open-source,component based 
+front end library responsible only for the view layer of the application.it was created by Jordan Walke.
+2.Question:Who made React?
+Answer:It was created by Jordan Walke.who was a software engineer at Facebook.
+3.Question:What is Babel?
+Answer:Babel is a Javascript compiler that can translate markup or programming languages into javascript. With Babel you can use the newest features
+of javascript.
+4.Question:How does Babel convert html code in react into valid code?
+Answer:Babel is a key tool that can translate JSX syntax, which is used to create HTML-like code in React components, into valid JavaScript code that can be executed in preferred browsers. By converting the JSX code into JavaScript functions that return the same HTML-like structures.
+5.Question:What is ReactDOM used for? write an example?
+Answer:ReactDOM is used to render components and elements on the web. It is a part of the React library used to create user interfaces and dynamic web applications, as well as reusable and composable components that can be used in different applications.
+ ReactJS's primary goal is to create User Interfaces (UI) which enhance the speed of programs. It makes use of virtual DOM (JavaScript object), which enhances the app's efficiency. 
+6.Question:what are the packages that you need to import for react to work with?
+Answer:React (or any other front-end framework) is an extremely powerful tool to master. When it comes to building front-end interfaces, React is hands down a huge time-saver for development teams and individuals.
+7.Question:How do you add react to a web application?
+Answer:Step 1: Add a DOM Container to the HTML. First, open the HTML page you want to edit. ...
+Step 2: Add the Script Tags. Next, add three <script> tags to the HTML page right before the closing </body> tag: ...
+Step 3: Create a React Component. Create a file called like_button.js next to your HTML page.
+8.Question:What is React.create element?
+Answer:createElement returns a React element object with a few properties: type : The type you have passed. props : The props you have passed except for ref and key . If the type is a component with legacy type.defaultProps , then any missing or undefined props will get the values from type.defaultProps.
+9.Question:What are the three properties that create element accept?
+Answer:React.createElement is a fundamental method of React JS. The main use of React.createElement is the Creation of a React component. It is the JavaScript format for creating react components. Also, the JSX react component when transpired invokes this only method for creating the component.
+10.Question:What is the meaning of render and root?
+Answer:React renders HTML to the web page by using a function called render(). The purpose of the function is to display the specified HTML code inside the specified HTML element. In the render() method, we can read props and state and return our JSX code to the root component of our app.
